@@ -1,0 +1,15 @@
+C:\Projetos VS CODE\Inicio.net\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+C:\Projetos VS CODE\Inicio.net\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+C:\Projetos VS CODE\Inicio.net\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+C:\Projetos VS CODE\Inicio.net\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+C:\Projetos VS CODE\Inicio.net\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+C:\Projetos VS CODE\Inicio.net\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
